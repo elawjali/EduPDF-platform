@@ -1,0 +1,9 @@
+# Node
+node_modules/
+build/
+.env
+
+# Python
+__pycache__/
+env/
+*.py[cod]
